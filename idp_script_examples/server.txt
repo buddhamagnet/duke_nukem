@@ -1,0 +1,6 @@
+#
+# localhost
+# SERVER="http://localhost:8090"
+#
+# External PoC service
+SERVER="http://econ-idp-poc.elasticbeanstalk.com"
